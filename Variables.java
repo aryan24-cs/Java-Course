@@ -3,6 +3,7 @@ public class Variables {
 
         // Variables: these are those quantity that change its value.
         // constant: those value do not change.
+        // Keywords: there are some words which are integrated in java and we can'nt use them as any ppther name like variable or anything
 
         // Variable Syntax in JAVA:  
         // Datatype variableName = value;
