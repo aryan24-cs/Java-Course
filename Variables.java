@@ -21,11 +21,11 @@ public class Variables {
         int x =10;
         int y= 25; 
         int sum = x+y;
-        // System.out.println(sum);
+        System.out.println(sum);
         int diff = x-y;
-        // System.out.println(diff);
+        System.out.println(diff);
         int mul = x*y;
-        // System.out.println(mul);
+        System.out.println(mul);
 
     }
 }
