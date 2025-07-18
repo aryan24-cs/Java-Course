@@ -1,3 +1,4 @@
+package Basics;
 import java.util.*;
 
 public class Input_in_java {
