@@ -1,7 +1,5 @@
 package Basics;
-
-
-public class ComplexPatterns {
+public class Patterns {
     public static void main(String[] args) {
         // Pattern 1: Solid Rectangle
         // *****
